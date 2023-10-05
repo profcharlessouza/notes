@@ -1,0 +1,18 @@
+/* css styles */
+.navbar-dark {
+ /*   background-color: #39566a;*/
+    font-weight: bold;
+    font-size: 18px;
+    font-family: Helvetica;
+   
+}
+/* Modify brand and text color */
+.navbar .navbar-brand {
+    color: gold; 
+    
+}
+.navbar li.nav-item a.nav-link span {
+  color: white !important;
+
+}
+body {text-align: justify}
